@@ -1,0 +1,6 @@
+{
+  "name": "Rajiv Book Binding House",
+  "description": "Commercial printing, binding, duplex box packaging, and graphic design solutions by Rajiv Book Binding House (est. 1960, Delhi).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

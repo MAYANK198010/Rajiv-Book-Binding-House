@@ -1,0 +1,19 @@
+{
+  "name": "rajiv-book-binding-house",
+  "version": "1.0.0",
+  "description": "Rajiv Book Binding House commercial printing, binding and packaging website",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "echo 'Static app - no build step required'",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemailer": "^9.0.3"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.3",
+    "to-ico": "^1.1.5"
+  }
+}
